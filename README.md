@@ -4,7 +4,7 @@ I used here API TMDb to create movie library where you can search movies by cate
 
 How To Setup
 1. Clone This Project git clone 
-2. Enter Project Directory cd food_flask_app
+2. Enter Project Directory cd movies_flask_app
 3. Create a Virtual Environment (for Windows) py -m venv (name your virtual enviroment) my_venv_environ
 - py -m venv venv
 4. Activate Virtual Environment source: venv/Scripts/activate
